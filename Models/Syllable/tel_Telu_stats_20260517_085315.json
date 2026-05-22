@@ -1,0 +1,16 @@
+{
+  "file": "tel_Telu.rtf",
+  "language": "Telugu",
+  "script": "Telu",
+  "total_sentences": 2779,
+  "valid_sentences": 2779,
+  "empty_sentences": 0,
+  "total_words": 30441,
+  "total_characters": 204902,
+  "total_syllables": 105862,
+  "total_tokens": 133524,
+  "compression_ratio": 0.5166469824599077,
+  "avg_fertility": 38.09355883411299,
+  "avg_tokens_per_word": 3.4776124306034624,
+  "unique_syllables": 1769
+}

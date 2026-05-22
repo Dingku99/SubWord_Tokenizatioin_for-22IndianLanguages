@@ -1,0 +1,16 @@
+{
+  "file": "ory_Orya.rtf",
+  "language": "Odia",
+  "script": "Orya",
+  "total_sentences": 3494,
+  "valid_sentences": 3494,
+  "empty_sentences": 0,
+  "total_words": 37178,
+  "total_characters": 218679,
+  "total_syllables": 126125,
+  "total_tokens": 159809,
+  "compression_ratio": 0.576758627943241,
+  "avg_fertility": 36.097595878649116,
+  "avg_tokens_per_word": 3.392463284738286,
+  "unique_syllables": 1073
+}

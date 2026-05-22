@@ -1,0 +1,16 @@
+{
+  "file": "asm_Beng.rtf",
+  "language": "Assamese",
+  "script": "Beng",
+  "total_sentences": 3497,
+  "valid_sentences": 3497,
+  "empty_sentences": 0,
+  "total_words": 37021,
+  "total_characters": 204237,
+  "total_syllables": 136343,
+  "total_tokens": 169867,
+  "compression_ratio": 0.6675724770732042,
+  "avg_fertility": 38.98856162424936,
+  "avg_tokens_per_word": 3.682855676507928,
+  "unique_syllables": 1118
+}

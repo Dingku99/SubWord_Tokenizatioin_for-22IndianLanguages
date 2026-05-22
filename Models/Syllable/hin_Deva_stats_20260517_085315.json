@@ -1,0 +1,16 @@
+{
+  "file": "hin_Deva.rtf",
+  "language": "Hindi",
+  "script": "Deva",
+  "total_sentences": 3456,
+  "valid_sentences": 3456,
+  "empty_sentences": 0,
+  "total_words": 46577,
+  "total_characters": 191999,
+  "total_syllables": 109755,
+  "total_tokens": 152876,
+  "compression_ratio": 0.5716436023104287,
+  "avg_fertility": 31.7578125,
+  "avg_tokens_per_word": 2.356420550915688,
+  "unique_syllables": 1501
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mal_Mlym.rtf",
+  "language": "Malayalam",
+  "script": "Mlym",
+  "total_sentences": 3358,
+  "valid_sentences": 3358,
+  "empty_sentences": 0,
+  "total_words": 26548,
+  "total_characters": 248186,
+  "total_syllables": 115438,
+  "total_tokens": 138628,
+  "compression_ratio": 0.46512696123068986,
+  "avg_fertility": 34.37701012507445,
+  "avg_tokens_per_word": 4.348274822962182,
+  "unique_syllables": 1571
+}

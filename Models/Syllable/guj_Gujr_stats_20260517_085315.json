@@ -1,0 +1,16 @@
+{
+  "file": "guj_Gujr.rtf",
+  "language": "Gujarati",
+  "script": "Gujr",
+  "total_sentences": 3504,
+  "valid_sentences": 3504,
+  "empty_sentences": 0,
+  "total_words": 38373,
+  "total_characters": 187816,
+  "total_syllables": 106290,
+  "total_tokens": 141159,
+  "compression_ratio": 0.5659262256676747,
+  "avg_fertility": 30.333904109589042,
+  "avg_tokens_per_word": 2.769916347431788,
+  "unique_syllables": 1386
+}

@@ -1,0 +1,16 @@
+{
+  "file": "snd_Deva.rtf",
+  "language": "Sindhi",
+  "script": "Deva",
+  "total_sentences": 3739,
+  "valid_sentences": 3739,
+  "empty_sentences": 0,
+  "total_words": 46191,
+  "total_characters": 195076,
+  "total_syllables": 117365,
+  "total_tokens": 159817,
+  "compression_ratio": 0.6016373105866432,
+  "avg_fertility": 31.389408932869753,
+  "avg_tokens_per_word": 2.540862938667706,
+  "unique_syllables": 1573
+}

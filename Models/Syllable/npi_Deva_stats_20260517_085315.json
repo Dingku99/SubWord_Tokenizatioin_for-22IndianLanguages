@@ -1,0 +1,16 @@
+{
+  "file": "npi_Deva.rtf",
+  "language": "Nepali",
+  "script": "Deva",
+  "total_sentences": 2718,
+  "valid_sentences": 2718,
+  "empty_sentences": 0,
+  "total_words": 34292,
+  "total_characters": 198696,
+  "total_syllables": 111271,
+  "total_tokens": 142845,
+  "compression_ratio": 0.5600062406892942,
+  "avg_fertility": 40.93855776306108,
+  "avg_tokens_per_word": 3.2448092849644232,
+  "unique_syllables": 1533
+}

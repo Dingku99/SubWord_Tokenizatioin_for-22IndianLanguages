@@ -1,0 +1,16 @@
+{
+  "file": "pan_Guru.rtf",
+  "language": "Punjabi",
+  "script": "Guru",
+  "total_sentences": 3007,
+  "valid_sentences": 3007,
+  "empty_sentences": 0,
+  "total_words": 45772,
+  "total_characters": 180696,
+  "total_syllables": 121898,
+  "total_tokens": 164663,
+  "compression_ratio": 0.6746026475406207,
+  "avg_fertility": 40.53807781842368,
+  "avg_tokens_per_word": 2.663156514899939,
+  "unique_syllables": 581
+}

@@ -1,0 +1,16 @@
+{
+  "file": "ben_Beng.rtf",
+  "language": "Bengali",
+  "script": "Beng",
+  "total_sentences": 3009,
+  "valid_sentences": 3009,
+  "empty_sentences": 0,
+  "total_words": 35007,
+  "total_characters": 190259,
+  "total_syllables": 112237,
+  "total_tokens": 144235,
+  "compression_ratio": 0.5899169027483588,
+  "avg_fertility": 37.30043203722167,
+  "avg_tokens_per_word": 3.206130202530922,
+  "unique_syllables": 1202
+}

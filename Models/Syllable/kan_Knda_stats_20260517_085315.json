@@ -1,0 +1,16 @@
+{
+  "file": "kan_Knda.rtf",
+  "language": "Kannada",
+  "script": "Knda",
+  "total_sentences": 3630,
+  "valid_sentences": 3630,
+  "empty_sentences": 0,
+  "total_words": 30517,
+  "total_characters": 225282,
+  "total_syllables": 115739,
+  "total_tokens": 142626,
+  "compression_ratio": 0.51375165348319,
+  "avg_fertility": 31.884022038567494,
+  "avg_tokens_per_word": 3.7926073991545697,
+  "unique_syllables": 1912
+}

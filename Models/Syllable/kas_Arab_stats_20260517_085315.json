@@ -1,0 +1,16 @@
+{
+  "file": "kas_Arab.rtf",
+  "language": "Kashmiri",
+  "script": "Arab",
+  "total_sentences": 2638,
+  "valid_sentences": 2638,
+  "empty_sentences": 0,
+  "total_words": 43935,
+  "total_characters": 204688,
+  "total_syllables": 172286,
+  "total_tokens": 213583,
+  "compression_ratio": 0.8417005393574611,
+  "avg_fertility": 65.30932524639879,
+  "avg_tokens_per_word": 3.9213838625241833,
+  "unique_syllables": 422
+}

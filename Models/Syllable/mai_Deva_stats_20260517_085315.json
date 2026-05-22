@@ -1,0 +1,16 @@
+{
+  "file": "mai_Deva.rtf",
+  "language": "Maithili",
+  "script": "Deva",
+  "total_sentences": 3061,
+  "valid_sentences": 3061,
+  "empty_sentences": 0,
+  "total_words": 40706,
+  "total_characters": 188943,
+  "total_syllables": 115695,
+  "total_tokens": 153340,
+  "compression_ratio": 0.6123275273495181,
+  "avg_fertility": 37.79647174126102,
+  "avg_tokens_per_word": 2.842209993612735,
+  "unique_syllables": 1391
+}

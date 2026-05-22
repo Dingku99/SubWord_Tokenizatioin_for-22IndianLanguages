@@ -1,0 +1,16 @@
+{
+  "file": "mni_Mtei.rtf",
+  "language": "Manipuri",
+  "script": "Mtei",
+  "total_sentences": 3151,
+  "valid_sentences": 3151,
+  "empty_sentences": 0,
+  "total_words": 36334,
+  "total_characters": 194671,
+  "total_syllables": 126881,
+  "total_tokens": 160064,
+  "compression_ratio": 0.6517714502930585,
+  "avg_fertility": 40.26689939701682,
+  "avg_tokens_per_word": 3.492073539935047,
+  "unique_syllables": 1004
+}

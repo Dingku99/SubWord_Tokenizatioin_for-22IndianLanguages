@@ -1,0 +1,16 @@
+{
+  "file": "doi_Deva.rtf",
+  "language": "Dogri",
+  "script": "Deva",
+  "total_sentences": 2736,
+  "valid_sentences": 2736,
+  "empty_sentences": 0,
+  "total_words": 46038,
+  "total_characters": 198018,
+  "total_syllables": 111056,
+  "total_tokens": 154358,
+  "compression_ratio": 0.560837903624923,
+  "avg_fertility": 40.590643274853804,
+  "avg_tokens_per_word": 2.4122681263304226,
+  "unique_syllables": 1519
+}
