@@ -1,0 +1,13 @@
+{
+  "language": "Hindi",
+  "language_code": "hin",
+  "script": "Deva",
+  "total_sentences": 3456,
+  "total_words": 47019,
+  "total_characters": 191999,
+  "total_tokens": 235120,
+  "compression_ratio": 1.2245897114047468,
+  "fertility": 5.000531699951083,
+  "avg_tokens_per_sentence": 68.0324074074074,
+  "timestamp": "20260519_164704"
+}

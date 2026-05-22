@@ -1,0 +1,13 @@
+{
+  "language": "Malayalam",
+  "language_code": "mal",
+  "script": "Mlym",
+  "total_sentences": 3358,
+  "total_words": 28830,
+  "total_characters": 248186,
+  "total_tokens": 271376,
+  "compression_ratio": 1.093437986026609,
+  "fertility": 9.412972597988206,
+  "avg_tokens_per_sentence": 80.81477069684335,
+  "timestamp": "20260519_164704"
+}

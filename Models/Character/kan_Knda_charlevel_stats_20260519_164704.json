@@ -1,0 +1,13 @@
+{
+  "language": "Kannada",
+  "language_code": "kan",
+  "script": "Knda",
+  "total_sentences": 3630,
+  "total_words": 31195,
+  "total_characters": 225282,
+  "total_tokens": 252169,
+  "compression_ratio": 1.1193481947070782,
+  "fertility": 8.08363519794839,
+  "avg_tokens_per_sentence": 69.46804407713499,
+  "timestamp": "20260519_164704"
+}

@@ -1,0 +1,13 @@
+{
+  "language": "Telugu",
+  "language_code": "tel",
+  "script": "Telu",
+  "total_sentences": 2779,
+  "total_words": 31018,
+  "total_characters": 204902,
+  "total_tokens": 232564,
+  "compression_ratio": 1.1350011224878234,
+  "fertility": 7.497711006512348,
+  "avg_tokens_per_sentence": 83.68621806405181,
+  "timestamp": "20260519_164704"
+}

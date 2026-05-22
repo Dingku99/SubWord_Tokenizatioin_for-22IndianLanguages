@@ -1,0 +1,13 @@
+{
+  "language": "Santali",
+  "language_code": "sat",
+  "script": "Olck",
+  "total_sentences": 2595,
+  "total_words": 42325,
+  "total_characters": 214239,
+  "total_tokens": 253934,
+  "compression_ratio": 1.1852837251854238,
+  "fertility": 5.999621972829297,
+  "avg_tokens_per_sentence": 97.85510597302505,
+  "timestamp": "20260519_164704"
+}

@@ -1,0 +1,13 @@
+{
+  "language": "Dogri",
+  "language_code": "doi",
+  "script": "Deva",
+  "total_sentences": 2736,
+  "total_words": 47326,
+  "total_characters": 198018,
+  "total_tokens": 241320,
+  "compression_ratio": 1.2186770899615187,
+  "fertility": 5.099099860541774,
+  "avg_tokens_per_sentence": 88.20175438596492,
+  "timestamp": "20260519_164704"
+}

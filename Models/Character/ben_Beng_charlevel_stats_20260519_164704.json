@@ -1,0 +1,13 @@
+{
+  "language": "Bengali",
+  "language_code": "ben",
+  "script": "Beng",
+  "total_sentences": 3009,
+  "total_words": 35702,
+  "total_characters": 190259,
+  "total_tokens": 222257,
+  "compression_ratio": 1.1681812686916255,
+  "fertility": 6.22533751610554,
+  "avg_tokens_per_sentence": 73.86407444333666,
+  "timestamp": "20260519_164704"
+}

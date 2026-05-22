@@ -1,0 +1,13 @@
+{
+  "language": "Nepali",
+  "language_code": "npi",
+  "script": "Deva",
+  "total_sentences": 2718,
+  "total_words": 34815,
+  "total_characters": 198696,
+  "total_tokens": 230270,
+  "compression_ratio": 1.1589060675604945,
+  "fertility": 6.614103116472784,
+  "avg_tokens_per_sentence": 84.72038263428992,
+  "timestamp": "20260519_164704"
+}

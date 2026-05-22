@@ -1,0 +1,13 @@
+{
+  "language": "Bodo",
+  "language_code": "brx",
+  "script": "Deva",
+  "total_sentences": 3478,
+  "total_words": 35263,
+  "total_characters": 210208,
+  "total_tokens": 240752,
+  "compression_ratio": 1.14530369919318,
+  "fertility": 6.827326092504892,
+  "avg_tokens_per_sentence": 69.22139160437033,
+  "timestamp": "20260519_164704"
+}

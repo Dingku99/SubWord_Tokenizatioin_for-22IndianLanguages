@@ -1,0 +1,13 @@
+{
+  "language": "Maithili",
+  "language_code": "mai",
+  "script": "Deva",
+  "total_sentences": 3061,
+  "total_words": 41032,
+  "total_characters": 188943,
+  "total_tokens": 226588,
+  "compression_ratio": 1.1992399824285631,
+  "fertility": 5.522226554883993,
+  "avg_tokens_per_sentence": 74.02417510617445,
+  "timestamp": "20260519_164704"
+}

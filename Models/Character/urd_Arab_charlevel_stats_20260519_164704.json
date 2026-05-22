@@ -1,0 +1,13 @@
+{
+  "language": "Urdu",
+  "language_code": "urd",
+  "script": "Arab",
+  "total_sentences": 2633,
+  "total_words": 50953,
+  "total_characters": 187045,
+  "total_tokens": 234721,
+  "compression_ratio": 1.2548905343633885,
+  "fertility": 4.606617863521285,
+  "avg_tokens_per_sentence": 89.14584124572731,
+  "timestamp": "20260519_164704"
+}

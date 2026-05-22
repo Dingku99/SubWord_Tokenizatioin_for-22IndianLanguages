@@ -1,0 +1,13 @@
+{
+  "language": "Konkani",
+  "language_code": "gom",
+  "script": "Deva",
+  "total_sentences": 3480,
+  "total_words": 34169,
+  "total_characters": 193406,
+  "total_tokens": 223921,
+  "compression_ratio": 1.1577769045427753,
+  "fertility": 6.553337820831748,
+  "avg_tokens_per_sentence": 64.34511494252874,
+  "timestamp": "20260519_164704"
+}

@@ -1,0 +1,13 @@
+{
+  "language": "Odia",
+  "language_code": "ory",
+  "script": "Orya",
+  "total_sentences": 3494,
+  "total_words": 39546,
+  "total_characters": 218679,
+  "total_tokens": 252363,
+  "compression_ratio": 1.1540339950338168,
+  "fertility": 6.3815050826885145,
+  "avg_tokens_per_sentence": 72.22753291356611,
+  "timestamp": "20260519_164704"
+}

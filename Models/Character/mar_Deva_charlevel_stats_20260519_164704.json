@@ -1,0 +1,13 @@
+{
+  "language": "Marathi",
+  "language_code": "mar",
+  "script": "Deva",
+  "total_sentences": 3412,
+  "total_words": 35860,
+  "total_characters": 206952,
+  "total_tokens": 239298,
+  "compression_ratio": 1.1562971123738839,
+  "fertility": 6.673117679866146,
+  "avg_tokens_per_sentence": 70.13423212192262,
+  "timestamp": "20260519_164704"
+}

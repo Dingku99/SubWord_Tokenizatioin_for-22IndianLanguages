@@ -1,0 +1,13 @@
+{
+  "language": "Tamil",
+  "language_code": "tam",
+  "script": "Taml",
+  "total_sentences": 2702,
+  "total_words": 31107,
+  "total_characters": 250991,
+  "total_tokens": 279203,
+  "compression_ratio": 1.1124024367407597,
+  "fertility": 8.975568200083583,
+  "avg_tokens_per_sentence": 103.3319763138416,
+  "timestamp": "20260519_164704"
+}

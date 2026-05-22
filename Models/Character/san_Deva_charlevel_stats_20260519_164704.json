@@ -1,0 +1,13 @@
+{
+  "language": "Sanskrit",
+  "language_code": "san",
+  "script": "Deva",
+  "total_sentences": 3569,
+  "total_words": 30419,
+  "total_characters": 206939,
+  "total_tokens": 231090,
+  "compression_ratio": 1.116705889175071,
+  "fertility": 7.596896676419343,
+  "avg_tokens_per_sentence": 64.74922947604371,
+  "timestamp": "20260519_164704"
+}

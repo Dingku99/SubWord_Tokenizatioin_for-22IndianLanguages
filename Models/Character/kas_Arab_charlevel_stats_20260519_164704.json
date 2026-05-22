@@ -1,0 +1,13 @@
+{
+  "language": "Kashmiri",
+  "language_code": "kas",
+  "script": "Arab",
+  "total_sentences": 2638,
+  "total_words": 63495,
+  "total_characters": 204688,
+  "total_tokens": 245985,
+  "compression_ratio": 1.201755843039162,
+  "fertility": 3.8740845735884717,
+  "avg_tokens_per_sentence": 93.24677786201669,
+  "timestamp": "20260519_164704"
+}

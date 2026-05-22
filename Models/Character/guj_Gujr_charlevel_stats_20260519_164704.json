@@ -1,0 +1,13 @@
+{
+  "language": "Gujarati",
+  "language_code": "guj",
+  "script": "Gujr",
+  "total_sentences": 3504,
+  "total_words": 38555,
+  "total_characters": 187816,
+  "total_tokens": 222685,
+  "compression_ratio": 1.1856551092558674,
+  "fertility": 5.775774867073013,
+  "avg_tokens_per_sentence": 63.551655251141554,
+  "timestamp": "20260519_164704"
+}
